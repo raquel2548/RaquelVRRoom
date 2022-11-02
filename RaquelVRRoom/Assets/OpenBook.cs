@@ -5,19 +5,19 @@ using UnityEngine;
 public class OpenBook : MonoBehaviour
 {
     public GameObject Cover;
-    public GameObject Hinge;
+    public HingeJoint myHinge;
 
     // Start is called before the first frame update
     void Start()
     {
-        var Hinge = Cover.GetComponent<HingePoint>();
+        var myHinge = Cover.GetComponent<HingeJoint>();
 
-        Hinge.useMotor = false;
-        
+        myHinge.useMotor = false;
     }
 
     public void OpenSesame()
     {
-        Hinge.useMotor = true;
+        myHinge.useMotor = true;
+        Debug.Log("motor should be true");
     }
 }
