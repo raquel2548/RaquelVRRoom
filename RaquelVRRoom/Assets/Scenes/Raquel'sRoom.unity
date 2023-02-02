@@ -5941,7 +5941,19 @@ MonoBehaviour:
   messageOutput: {fileID: 911616439}
   OnComplete:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 911616441}
+        m_TargetAssemblyTypeName: ShowMessageFromList, Assembly-CSharp
+        m_MethodName: NextMessage
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: hiii
+          m_BoolArgument: 0
+        m_CallState: 2
   messages:
   - Press the secondary button on your controller at any time to reset the scene
     to its default state.
@@ -8139,7 +8151,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1069448546}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: -1.975}
+  m_LocalPosition: {x: 0, y: 0, z: -1.913}
   m_LocalScale: {x: 0.27, y: 0.08, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8149,7 +8161,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 214.1, y: 80}
+  m_AnchoredPosition: {x: 237.2, y: 80}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1076026505
