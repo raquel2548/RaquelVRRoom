@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 58
+  controlID: 18
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -222,7 +222,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 17
+  controlID: 146
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -247,7 +247,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 106
+  controlID: 17
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -272,7 +272,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 107
+  controlID: 105
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -397,10 +397,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 30}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: e6edffff2efbffff62660000
+      m_ExpandedIDs: f6b6ffff2efbffff82630000ea650000626600007e660000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -649,9 +649,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.29788637, y: 0.20157444, z: -0.30305222}
+    m_Target: {x: 0.20267671, y: 1.825871, z: 2.8644044}
     speed: 2
-    m_Value: {x: 0.29788637, y: 0.20157444, z: -0.30305222}
+    m_Value: {x: 0.20267671, y: 1.825871, z: 2.8644044}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -698,13 +698,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.3196735, y: -0.57367194, z: 0.2588208, w: -0.70829237}
+    m_Target: {x: -0.026400845, y: -0.008737369, z: 0.00020347058, w: -0.99959195}
     speed: 2
-    m_Value: {x: -0.3196804, y: -0.57368433, z: 0.25882638, w: -0.7083076}
+    m_Value: {x: -0.026401073, y: -0.0102369655, z: 0.00024307678, w: -0.999599}
   m_Size:
-    m_Target: 0.7898368
+    m_Target: 1.6291095
     speed: 2
-    m_Value: 0.7898368
+    m_Value: 1.6291095
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -862,22 +862,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/_Course Library/_Prefabs/Lighting
+    - Assets/_Course Library/_Prefabs/VR/Reticles
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/_Course Library/_Prefabs/Lighting
+  - Assets/_Course Library/_Prefabs/VR/Reticles
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\719802\Documents\Unity\GitHub\RaquelVRRoom\RaquelVRRoom
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ba710000
-    m_LastClickedID: 29114
-    m_ExpandedIDs: 0000000060710000627100006471000066710000687100006a7100006c7100006e710000707100007871000000ca9a3b
+    scrollPos: {x: 0, y: 98}
+    m_SelectedIDs: 7a720000
+    m_LastClickedID: 29306
+    m_ExpandedIDs: 000000007c7100007e71000080710000827100008471000086710000887100008a7100008c710000927100007c72000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -905,7 +905,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000060710000627100006471000066710000687100006a7100006c7100006e71000070710000
+    m_ExpandedIDs: 000000007c7100007e71000080710000827100008471000086710000887100008a7100008c710000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
